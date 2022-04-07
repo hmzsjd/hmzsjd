@@ -1,5 +1,11 @@
 <h1 align="center">Hello! I'm Hamza 👋 </h1>
 <h3 align="center">🚀 Full Stack Web Developer 🚀</h3>
+<div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/-hmzsjd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmzsjd/)](https://www.linkedin.com/in/hmzsjd/)  [![Gmail Badge](https://img.shields.io/badge/-hmzsjd@pm.me-c14438?style=flat-square&logo=ProtonMail&logoColor=white&link=mailto:hmzsjd@pm.me)](mailto:hmzsjd@pm.me)
+
+
+</div>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
